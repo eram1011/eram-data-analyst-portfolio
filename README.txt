@@ -1,30 +1,19 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Eram's Portfolio
 
+Welcome to my data analyst portfolio! This site showcases my data-driven projects, skills, and journey. Feel free to explore and learn more about my work.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+### About
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This portfolio is a reflection of my passion for data science, analytics, and storytelling. As a data enthusiast, I've delved into various domains, from SQL and Python to Machine Learning and Cloud Computing. Here, you'll find insights, visualizations, and narratives that highlight my analytical prowess.
 
-(* = not included)
+### Features
 
-AJ
-aj@lkn.io | @ajlkn
+- **Projects:** Explore my data analysis projects, from exploratory data visualization to predictive modeling.
+- **Skills:** Discover my proficiency in SQL, Python, Tableau, and AWS.
+- **Journey:** Follow my learning path and growth as a data analyst.
 
+### Connect with Me
 
-Credits:
+Let's connect and discuss data, insights, or anything related to this fascinating field! Feel free to reach out via email or connect on LinkedIn.
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
