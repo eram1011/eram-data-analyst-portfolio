@@ -9,7 +9,7 @@ This portfolio is a reflection of my passion for data science, analytics, and st
 ### Features
 
 - **Projects:** Explore my data analysis projects, from exploratory data visualization to predictive modeling.
-- **Skills:** Discover my proficiency in SQL, Python, Tableau, and AWS.
+- **Skills:** Discover my proficiency in SQL, Python, Tableau, and Azure.
 - **Journey:** Follow my learning path and growth as a data analyst.
 
 ### Connect with Me
